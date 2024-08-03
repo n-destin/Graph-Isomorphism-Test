@@ -1,3 +1,9 @@
+'''
+@author: Destin Niyomufasha
+@Network Science and Complex Systems. 
+@March 2024
+'''
+
 class node():
     def __init__(self, index, color) -> None:
         self.index = index
